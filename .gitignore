@@ -3,6 +3,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+### PICTURES ###
+processed/
+dataBase/
+
 ### Eclipse ###
 .apt_generated
 .classpath
